@@ -34,4 +34,4 @@ To assist us in this process, he provided us with a file called Target.xlsx, whi
 
 Other Power Bi Resources 
 
-[EnterPrise DNA] (https://portal.enterprisedna.co/courses/1399444/lectures/32167265)
+1. [EnterPrise DNA] (https://portal.enterprisedna.co/courses/1399444/lectures/32167265)
