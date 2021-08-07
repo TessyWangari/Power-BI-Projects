@@ -7,7 +7,7 @@ Project 1:
 [link] https://github.com/TessyWangari/Power-BI-Projects/blob/main/Financial%20Dashboard.pbix
 
 
-## Project 2 : Data Modeling with Power Bi [link](https://github.com/TessyWangari/Power-BI-Projects/tree/main/2.Data%20Modeling%20with%20Power%20BI)
+## Project 2 : Data Modeling with Power Bi [See project files here](https://github.com/TessyWangari/Power-BI-Projects/tree/main/2.Data%20Modeling%20with%20Power%20BI)
 ## BACK GROUND:
 We are working with a company called Heavy Power Nutrition.
 Our first mission at Heavy Power Nutrition is to help the Demand Generation team, which is under Pedro’s management, to create the B2B sales reports more easily.
