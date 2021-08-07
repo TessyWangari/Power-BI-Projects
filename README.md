@@ -1,6 +1,7 @@
 
 
 
+
 ## Project 2 : Data Modeling with Power Bi [See project files here](https://github.com/TessyWangari/Power-BI-Projects/tree/main/2.Data%20Modeling%20with%20Power%20BI)
 ## BACK GROUND:
 We are working with a company called Heavy Power Nutrition.
@@ -28,3 +29,9 @@ To assist us in this process, he provided us with a file called Target.xlsx, whi
 2. Import into Power BI the table with the monthly target by region and perform an analysis of Net Sales x Target for the supervisors, to know in which months each of the supervisors reached the target.
 3. Create the necessary transformations to build the proper data model using relationships between tables.
 4. As much as we can do this consolidated analysis that Pedro asked for, the process is still far from ideal. Besides, do you see other problems that Pedro may face when analyzing the values coming from the Marketing team, from Mission #01, and the values coming from the Sales team, from Mission #02? What would you suggest to him to minimize these risks?
+
+
+
+Other Power Bi Resources 
+
+[EnterPrise DNA] (https://portal.enterprisedna.co/courses/1399444/lectures/32167265)
