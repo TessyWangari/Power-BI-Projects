@@ -1,10 +1,4 @@
-This is a Financial dashboard that shows sales and profit
 
-To view this project, Power BI must be installed
-
-Project 1: 
-
-[link] https://github.com/TessyWangari/Power-BI-Projects/blob/main/Financial%20Dashboard.pbix
 
 
 ## Project 2 : Data Modeling with Power Bi [See project files here](https://github.com/TessyWangari/Power-BI-Projects/tree/main/2.Data%20Modeling%20with%20Power%20BI)
